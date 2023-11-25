@@ -1,0 +1,3 @@
+# Controller & CRDs are only available for vCluster Pro
+
+[vCluster OSS](https://github.com/loft-sh/vcluster) provides a handy CLI to create and manage vClusters. However, it is not possible to define vClusters in a declarative way. This is where the [vCluster Operator](http://github.com/openloft/vcluster-operator) comes into play. It allows you to define vClusters in a declarative manner using Custom Resource Definitions (CRDs).
